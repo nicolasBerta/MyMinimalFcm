@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626447619391",
+    "project_id": "test-project-01-45f4b",
+    "storage_bucket": "test-project-01-45f4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626447619391:android:c6dd4da8c563853f35af8a",
+        "android_client_info": {
+          "package_name": "com.nico.testpush.fiid0001"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX0PjycxOmgr3cX_4d5oGD4Ec8EyaEhAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
